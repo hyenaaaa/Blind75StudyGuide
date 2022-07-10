@@ -10,8 +10,7 @@ Doing the optimal solution is much better as we will achive O(n) for time comple
 
 **Code(C++)**:
 * O(n^2)
-`
-class Solution {
+`class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int size = nums.size();
@@ -32,12 +31,10 @@ public:
         // if nothing found, return empty vector.
         return ans;
     }
-};
-`
+};`
 
 * O(n)
-`
-class Solution {
+`class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int, int> m;
@@ -57,5 +54,4 @@ public:
         
         return ans;
     }
-};
-`
+};`
