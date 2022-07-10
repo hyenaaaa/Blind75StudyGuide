@@ -1,5 +1,6 @@
 # Blind75StudyGuide
 An ultimate guide to all of the Blind75 problems using C++ or Python.
+Link: https://leetcode.com/list/xi4ci4ig/
 
 This guide will go over the following problems in explanation:
 
