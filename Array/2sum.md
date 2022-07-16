@@ -47,7 +47,7 @@ public:
         int size = nums.size();
         
         for(int i = 0; i < size; ++i) {
-        // if we find a match in our hash map, push both indices.
+            // if we find a match in our hash map, push both indices.
             if(m.find(target-nums[i]) != m.end()) {
                 ans.push_back(m[target-nums[i]]);
                 ans.push_back(i);
