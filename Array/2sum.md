@@ -12,7 +12,7 @@ Doing the optimal solution is much better as we will achieve O(n) for time compl
 
 **Code(C++)**:
 * O(n^2)
-```c++
+```C++
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -38,7 +38,7 @@ public:
 ```
 
 * O(n)
-```c++
+```C++
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -47,16 +47,18 @@ public:
         int size = nums.size();
         
         for(int i = 0; i < size; ++i) {
+        // if we find a match in our hash map, push both indices.
             if(m.find(target-nums[i]) != m.end()) {
                 ans.push_back(m[target-nums[i]]);
                 ans.push_back(i);
+                
                 return ans;
             }
+            // otherwise, add it to our hash map.
             else{
                 m[nums[i]] = i;
             }
         }
-        
         return ans;
     }
 };
