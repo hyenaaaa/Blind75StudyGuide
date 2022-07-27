@@ -5,7 +5,7 @@ Link: https://leetcode.com/list/xi4ci4ig/
 This guide will go over the following problems in explanation:
 
 * Array
-  * Two Sum
+  * Two Sum (Completed)
   * Best Time to Buy and Sell Stock
   * Contains Duplicate
   * Product of Array Except Self
