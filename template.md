@@ -10,8 +10,8 @@
 
 **Code(Python)**:
 
-```Python
 * Runtime: 
+```Python
 class Solution:
 
 ```
