@@ -13,6 +13,7 @@ Doing the optimal solution is much better as we will achieve O(n) for time compl
 **Code(Python)**:
 
 ```Python
+* Runtime: O(n)
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         # dictionary to use later
@@ -29,7 +30,7 @@ class Solution:
 ```
 
 **Code(C++)**:
-* O(n^2)
+* Runtime: O(n^2)
 ```C++
 class Solution {
 public:
@@ -55,7 +56,7 @@ public:
 };
 ```
 
-* O(n)
+* Runtime: O(n)
 ```C++
 class Solution {
 public:
