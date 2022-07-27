@@ -10,6 +10,24 @@ For this problem we are trying to get the optimal time complexity which is O(n).
 Doing the optimal solution is much better as we will achieve O(n) for time complexity since we are only going to loop over the vector once! We start off by using an unordered_map and a vector to return. We then are able to loop over the vector once using a for loop, and if the target minus the number is in our map (that we are adding to) we can add that to our ans vector and return. Otherwise, we just add that element to our map. The map is structured as the following, integer, index position(also integer). That way we can keep track of it as we iterate through our vector.
 
 
+**Code(Python)**:
+
+```Python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        # dictionary to use later
+        required = {}
+
+        # iterate through the length of our list
+        for i in range(len(nums)):
+            # if the number we need is in our dictionary, return the indices
+            if target-nums[i] in required:
+                return [required[target-nums[i]], i]
+            # otherwise, put it in our dictionary
+            else:
+                required[nums[i]] = i
+```
+
 **Code(C++)**:
 * O(n^2)
 ```C++
