@@ -7,7 +7,7 @@ This guide will go over the following problems in explanation:
 * Array
   * Two Sum (Completed)
   * Best Time to Buy and Sell Stock (Completed)
-  * Contains Duplicate
+  * Contains Duplicate (Completed)
   * Product of Array Except Self
   * Maximum Subarray
   * Maximum Product Subarray
