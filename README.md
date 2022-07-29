@@ -40,7 +40,7 @@ This guide will go over the following problems in explanation:
   * Two Sum (Completed)
   * Best Time to Buy and Sell Stock (Completed)
   * Contains Duplicate (Completed)
-  * Product of Array Except Self
+  * Product of Array Except Self (Completed)
   * Maximum Subarray
   * Maximum Product Subarray
   * Find Minimum in Rotated Sorted Array

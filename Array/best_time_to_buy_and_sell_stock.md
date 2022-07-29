@@ -5,7 +5,7 @@
 **Description:** You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
 **Explanation:**
-In this problem, we first initialize two variables for the maximum and minimum prices. The minimum price is initalized to infinity. Then we iterate through our prices list. We begin with calculating the minimum, and then get the profit taking the price minus the minimum price. After that, we take the max of the maximum price and the profit. By the end of our loop, we return the maximum price as that will be the maximum profit.
+In this problem, we first initialize two variables for the maximum and minimum prices. The minimum price is initialized to infinity. Then we iterate through our prices list. We begin with calculating the minimum, and then get the profit taking the price minus the minimum price. After that, we take the max of the maximum price and the profit. By the end of our loop, we return the maximum price as that will be the maximum profit.
 
 
 **Code(Python)**:
