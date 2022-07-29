@@ -10,6 +10,7 @@ This one is quite difficult to understand at first. Here we need to find the *co
 To start out, we can first iterate over the nums length starting at one so we can check the element behind the current. Then if the element behind the current is greater than one, we add it to our current because this positively increases our sum, negative numbers are bad. Once we are done going through all the numbers in the list, one of those numbers will be our maximum "sum" which is the answer we want. To find this easily, we can use the max function in Python and find the largest one in the list and return!
 
 Here's an example using [-2, 1, -2, 4, -1, 2, 1, -5, 4]:
+
 Start: 1
 
 Start: -3
