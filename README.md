@@ -41,8 +41,8 @@ This guide will go over the following problems in explanation:
   * Best Time to Buy and Sell Stock (Completed)
   * Contains Duplicate (Completed)
   * Product of Array Except Self (Completed)
-  * Maximum Subarray
-  * Maximum Product Subarray
+  * Maximum Subarray (Completed)
+  * Maximum Product Subarray (Completed)
   * Find Minimum in Rotated Sorted Array
   * Search in Rotated Sorted Array
   * 3 Sum
