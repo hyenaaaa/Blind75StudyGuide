@@ -38,8 +38,8 @@ This guide will go over the following problems in explanation:
 
 * Array
   * Two Sum [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/2_sum.md)
-  * Best Time to Buy and Sell Stock [Completed] (https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/best_time_to_buy_and_sell_stock.md)
-  * Contains Duplicate [Completed] (https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/contains_duplicate.md)
+  * Best Time to Buy and Sell Stock [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/best_time_to_buy_and_sell_stock.md)
+  * Contains Duplicate [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/contains_duplicate.md)
   * Product of Array Except Self [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/product_of_array_except_self.md)
   * Maximum Subarray [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/maximum_subarray.md)
   * Maximum Product Subarray [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/maximum_product_subarray.md)
