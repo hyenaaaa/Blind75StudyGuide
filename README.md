@@ -37,12 +37,12 @@ Link: https://leetcode.com/list/xi4ci4ig/
 This guide will go over the following problems in explanation:
 
 * Array
-  * Two Sum (Completed)
-  * Best Time to Buy and Sell Stock (Completed)
-  * Contains Duplicate (Completed)
-  * Product of Array Except Self (Completed)
-  * Maximum Subarray (Completed)
-  * Maximum Product Subarray (Completed)
+  * Two Sum [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/2_sum.md)
+  * Best Time to Buy and Sell Stock [Completed] (https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/best_time_to_buy_and_sell_stock.md)
+  * Contains Duplicate [Completed] (https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/contains_duplicate.md)
+  * Product of Array Except Self [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/product_of_array_except_self.md)
+  * Maximum Subarray [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/maximum_subarray.md)
+  * Maximum Product Subarray [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/maximum_product_subarray.md)
   * Find Minimum in Rotated Sorted Array
   * Search in Rotated Sorted Array
   * 3 Sum
@@ -120,5 +120,5 @@ This guide will go over the following problems in explanation:
   * Word Search II
 * Heap
   * Merge K Sorted Lists
-  * Top K Frequent Elements
+  * Top K Frequent Elements [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Heap/top_k_frequent_elements.md)
   * Find Median from Data Stream
