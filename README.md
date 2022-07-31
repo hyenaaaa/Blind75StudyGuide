@@ -1,4 +1,4 @@
-# Blind75StudyGuide
+# Blind 75 Study Guide
 ```
               ,--,                                                      ,----,      ,----,.                                     
            ,---.'|                    ,--.                            .'   .`|    ,'   ,' |                                     
