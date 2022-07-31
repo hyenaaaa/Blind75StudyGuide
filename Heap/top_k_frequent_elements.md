@@ -10,7 +10,7 @@ For this problem we will have to work around *k*, and use bucket array. First, w
 
 **Code(Python)**:
 
-* Runtime: 
+* Runtime: O(n)
 ```Python
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
