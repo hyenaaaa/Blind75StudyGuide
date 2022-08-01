@@ -30,7 +30,6 @@ class Solution:
             max_price = max(max_price, profit)
         
         return max_price
-
 ```
 
 **Code(C++)**:

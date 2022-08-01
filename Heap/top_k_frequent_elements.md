@@ -34,8 +34,6 @@ class Solution:
             # after appending to our result list, if the length of it is equal to k, that is when we return
             if len(result) == k:
                 return result
-
-
 ```
 
 **Code(C++)**:

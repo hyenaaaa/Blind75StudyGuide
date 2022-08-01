@@ -19,7 +19,6 @@ class Solution:
 
         # compare the length of the two, return true if there is a duplicate and false otherwise.
         return len(compare_list) != len(nums)
-
 ```
 
 **Code(C++)**:

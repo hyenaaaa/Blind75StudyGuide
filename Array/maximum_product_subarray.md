@@ -10,7 +10,7 @@ This is very similar to the last question we just did, but this time we are usin
 
 **Code(Python)**:
 
-* Runtime: 
+* Runtime: O(n)
 ```Python
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
@@ -27,8 +27,6 @@ class Solution:
         
         # we then return the max we get from both of the lists.
         return max(nums + rev_nums)
-
-
 ```
 
 **Code(C++)**:
