@@ -104,7 +104,7 @@ This guide will go over the following problems in explanation:
   * Palindromic Substrings
   * Encode and Decode Strings (Leetcode Premium)
 * Tree
-  * Maximum Depth of Binary Tree
+  * Maximum Depth of Binary Tree [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Tree/maximum_depth_of_binary_tree.md)
   * Same Tree [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Tree/same_tree.md)
   * Invert/Flip Binary Tree
   * Binary Tree Maximum Path Sum
