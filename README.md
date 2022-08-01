@@ -105,7 +105,7 @@ This guide will go over the following problems in explanation:
   * Encode and Decode Strings (Leetcode Premium)
 * Tree
   * Maximum Depth of Binary Tree
-  * Same Tree
+  * Same Tree [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Tree/same_tree.md)
   * Invert/Flip Binary Tree
   * Binary Tree Maximum Path Sum
   * Binary Tree Level Order Traversal
