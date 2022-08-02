@@ -112,7 +112,7 @@ This guide will go over the following problems in explanation:
   * Serialize and Deserialize Binary Tree
   * Subtree of Another Tree
   * Construct Binary Tree from Preorder and Inorder Traversal
-  * Validate Binary Search Tree
+  * Validate Binary Search Tree [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Tree/validate_binary_search_tree.md)
   * Kth Smallest Element in a BST
   * Lowest Common Ancestor of BST
   * Implement Trie (Prefix Tree)
