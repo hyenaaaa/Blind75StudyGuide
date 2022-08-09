@@ -79,7 +79,7 @@ This guide will go over the following problems in explanation:
   * Minimum Window Substring
   * Valid Anagram [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/String/valid_anagram.md)
   * Group Anagrams [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/String/group_anagrams.md)
-  * Valid Parentheses
+  * Valid Parentheses [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/String/valid_parentheses.md)
   * Valid Palindrome [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/String/valid_palidrome.md)
   * Longest Palindromic Substring
   * Palindromic Substrings
