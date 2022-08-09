@@ -93,11 +93,11 @@ This guide will go over the following problems in explanation:
   * Rotate Image
   * Word Search
 * String
-  * Longest Substring Without Repeating Characters
+  * Longest Substring Without Repeating Characters [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/String/longest_subtring_without_repeating_characters.md)
   * Longest Repeating Character Replacement
   * Minimum Window Substring
-  * Valid Anagram
-  * Group Anagrams
+  * Valid Anagram [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/String/valid_anagram.md)
+  * Group Anagrams [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/String/group_anagrams.md)
   * Valid Parentheses
   * Valid Palindrome
   * Longest Palindromic Substring
