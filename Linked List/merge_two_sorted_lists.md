@@ -24,7 +24,7 @@ class Solution:
 
         # iterate through both linked list until one of them ends
         while list1 and list2:
-            # find lowest of both linked in lists
+            # find lowest of both linked lists
             if list1.val < list2.val:
                 curr.next = list1
                 list1 = list1.next
