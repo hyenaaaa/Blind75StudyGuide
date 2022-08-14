@@ -5,7 +5,7 @@
 **Description:** You are given the heads of two sorted linked lists list1 and list2. Merge the two lists in a one sorted list. The list should be made by splicing together the nodes of the first two lists. Return the head of the merged linked list.
 
 **Explanation:**
-<text here>
+This one isn't that bad at first we just have to understand how it works. First, we initialize a dummy linked list that we will be returning in the end with both of our linked lists merged. Next we are going to use a while loop to loop over both linked lists until one of them reaches NULL. Next, we just check if list1's value is lower than list2's value then make our dummy list next be list1 and advance list1. Same goes for opposite and at the end of the loop we advance the dummy node to the next as well. Once one of the lists reach the end, we will take those remaining numbers and slap them on the end of the dummy list. Then we will return that list.
 
 
 **Code(Python)**:
