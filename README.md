@@ -50,7 +50,7 @@ This guide will go over the following problems in explanation:
   * Clone Graph
   * Course Schedule
   * Pacific Atlantic Water Flow
-  * Number of Islands
+  * Number of Islands [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Graph/number_of_islands.md)
   * Longest Consecutive Sequence
   * Alien Dictionary (Leetcode Premium)
   * Graph Valid Tree (Leetcode Premium)
