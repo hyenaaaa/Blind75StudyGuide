@@ -26,7 +26,7 @@ This guide will go over the following problems in explanation:
   * Maximum Product Subarray [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/maximum_product_subarray.md)
   * Find Minimum in Rotated Sorted Array
   * Search in Rotated Sorted Array
-  * 3 Sum
+  * 3 Sum [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Array/3_sum.md)
   * Container With Most Water
 * Binary
   * Sum of Two Integers
