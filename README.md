@@ -50,7 +50,7 @@ This guide will go over the following problems in explanation:
   * Clone Graph
   * Course Schedule
   * Pacific Atlantic Water Flow
-  * Number of Islands
+  * Number of Islands [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Graph/number_of_islands.md)
   * Longest Consecutive Sequence
   * Alien Dictionary (Leetcode Premium)
   * Graph Valid Tree (Leetcode Premium)
@@ -64,7 +64,7 @@ This guide will go over the following problems in explanation:
 * Linked List
   * Reverse a Linked List
   * Detect Cycle in a Linked List
-  * Merge Two Sorted Lists
+  * Merge Two Sorted Lists [Completed](https://github.com/hyenaaaa/Blind75StudyGuide/blob/main/Linked%20List/merge_two_sorted_lists.md)
   * Merge K Sorted Lists
   * Remove Nth Node From End Of List
   * Reorder List
